@@ -24,7 +24,8 @@
 
 - Python
 - Jupyter Notebook یا JupyterLab
-- کتابخانه‌های مورد نیاز پروژه (در صورت وجود فایل `requirements.txt`، با دستور زیر نصب کنید:)
+
+کتابخانه‌های مورد نیاز پروژه (در صورت وجود فایل `requirements.txt`، با دستور زیر نصب کنید:)
 
   ```bash
   pip install -r requirements.txt
